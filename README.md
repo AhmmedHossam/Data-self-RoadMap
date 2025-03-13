@@ -38,8 +38,8 @@ Databases
 
  
 Data Warehousing
-	•	Data Warehousing - Playlist 1 : https://youtube.com/playlist?list=PL3y0fK2jTsPTNejc7xDuuC1TsQVdQ2haf&si=iq0xZ3I50FO0zJCI
-	•	Data Warehousing - Playlist 2 :  https://youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF&si=zQH7egvcR4VFwuMp
+	•	 Playlist 1 : https://youtube.com/playlist?list=PL3y0fK2jTsPTNejc7xDuuC1TsQVdQ2haf&si=iq0xZ3I50FO0zJCI
+	•	Playlist 2 :  https://youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF&si=zQH7egvcR4VFwuMp
 
 SQL
 	•	SQL Course - Playlist 1 : https://youtube.com/playlist?list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO&si=ZYAYqq7_jBXkV9z4
