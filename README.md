@@ -23,7 +23,6 @@ Statistics
 
 Excel for Data Analysis
 	•	Excel Basics: https://youtu.be/pCJ15nGFgVg?si=L3lhkVNcXigpbl79
- 
 	•	Excel Project (To be added): 
 
 ⸻
